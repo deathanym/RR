@@ -1,0 +1,14 @@
+{ 
+  "email": "deathanym@halfsecurity.com",
+  "password": "Alexa8728982.a",
+  "relatedProfilesKeywords": [],
+  "maxConcurrentCrawlers": 2,
+  "profileLoadWaitTime": 5000,
+  "saveDirectory": "./crawledProfiles",
+  "puppeteerArgs": { "args": ["--no-sandbox"] },
+  "isHeadless": true,
+  "hasToLog": true,
+  "proxyAddress": null
+}
+
+

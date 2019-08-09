@@ -1,0 +1,236 @@
+{
+  "profileAlternative": {
+    "name": "Abraham Almarza Kackschis",
+    "headline": "Research Cybersecurity and Developer",
+    "location": "Chile",
+    "connections": "Más de 500 contactos",
+    "summary": "Ingeniero Civil informático, con amplia experiencia en diversos rubros del mercado como ingeniero de software, consultor hacker ético y gestión de proyectos.\n\nSoy un profesional dedicado al aprendizaje continuo, estando a la vanguardia en diferentes sectores del mercado, y de esta manera siendo alguien con una gran variedad de conocimientos técnicos y habilidades blandas.\n\nCuento con gran capacidad de liderar equipos multidisciplinarios, en sus diferentes contextos, utilizando los recursos de la manera más óptima y eficiente, de está manera logrando los objetivos correctamente.\n\nHe participado en diversos proyectos de innovación, enfocados principalmente en áreas de la salud y la ciberseguridad.\n\nParticipo como Co-Founder en Khapto, y Fundador de HalfSecurity, siendo un profesional introducido en la innovación y estas materias, además de las estratégicas del mercado."
+  },
+  "aboutAlternative": {
+    "text": "Ingeniero Civil informático, con amplia experiencia en diversos rubros del mercado como ingeniero de software, consultor hacker ético y gestión de proyectos.\n\nSoy un profesional dedicado al aprendizaje continuo, estando a la vanguardia en diferentes sectores del mercado, y de esta manera siendo alguien con una gran variedad de conocimientos técnicos y habilidades blandas.\n\nCuento con gran capacidad de liderar equipos multidisciplinarios, en sus diferentes contextos, utilizando los recursos de la manera más óptima y eficiente, de está manera logrando los objetivos correctamente.\n\nHe participado en diversos proyectos de innovación, enfocados principalmente en áreas de la salud y la ciberseguridad.\n\nParticipo como Co-Founder en Khapto, y Fundador de HalfSecurity, siendo un profesional introducido en la innovación y estas materias, además de las estratégicas del mercado."
+  },
+  "positions": [
+    {
+      "title": "IT Project Engineer",
+      "companyName": "Ripley Chile",
+      "description": "Ingeniero de proyectos de la gerencia de Bigdata & Advanced Analitycs.",
+      "date1": "may. de 2019 – actualidad",
+      "date2": "4 meses"
+    },
+    {
+      "title": "Co-Founder & Chief Security and Technology Officer",
+      "companyName": "Khapto",
+      "description": "Líder del equipo de desarrollo y ciberseguridad en Khapto.\n\nEncargado de la arquitectura y desarrollo del sistema Khapto Cloud.",
+      "date1": "mar. de 2019 – actualidad",
+      "date2": "6 meses"
+    },
+    {
+      "title": "Cybersecurity & Ethical Hacking Instructor",
+      "companyName": "Universidad San Sebastián",
+      "description": "Dictar clases de ciberseguridad y seguridad de la información a estudiantes de ingeniería.",
+      "date1": "mar. de 2019 – actualidad",
+      "date2": "6 meses"
+    },
+    {
+      "title": "Lead & Founder",
+      "companyName": "HalfSecurity",
+      "description": "Fundador de la academia HalfSecurity, orientado en seguridad informática y hacking ético, haciendo presencia en toda Latinoamérica.\n\nPonente de ciberseguridad y creador de cursos profesionales de hacking ético.",
+      "date1": "ene. de 2015 – actualidad",
+      "date2": "4 años y 8 meses"
+    },
+    {
+      "title": "Project Manager",
+      "companyName": "Universidad San Sebastián",
+      "description": "Me desempeñe como jefe de proyectos para la escuela de odontología, perteneciente a la USS. Mi rol fue gestionar la incubación de un proyecto de innovación tecnológica, donde se realizaron diferentes tareas y actividades.\n... Ver más",
+      "date1": "abr. de 2018 – dic. de 2018",
+      "date2": "9 meses"
+    },
+    {
+      "title": "Consultant and Developer FullStack Senior",
+      "companyName": "Freelancer",
+      "description": "He trabajado de manera independiente y freelance como desarrollador fullstack en múltiples proyectos y con equipos multidiciplinarios, obteniendo conocimiento y experiencia en diferentes tecnologias como: Php5-7, NodeJS, AngularJS, Bootstrap 4, Python, Html, CSS, Javascript, API Rest, Laravel, Ionic2.... Ver más",
+      "date1": "may. de 2014 – abr. de 2018",
+      "date2": "4 años"
+    },
+    {
+      "title": "Cybersecurity Speaker",
+      "companyName": "Universidad San Sebastian",
+      "description": "Encargado de capacitar a estudiantes y profesionales en programa difusión, en áreas de la ciberseguridad y seguridad de la información.\n\nHe sido relator para estudiantes de la universidad San Sebastián en temas de ciberseguri... Ver más",
+      "date1": "ago. de 2016 – dic. de 2017",
+      "date2": "1 año y 5 meses"
+    },
+    {
+      "title": "Lead Instructor",
+      "companyName": "Udemy",
+      "description": "Instructor en Cursos de Ethical Hacking Para Rendir CEH-V9 y Diseño en Aplicaciónes Web",
+      "date1": "mar. de 2017 – jul. de 2017",
+      "date2": "5 meses"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Universidad San Sebastián",
+      "degree": "Ingeniería civil Informatica",
+      "date1": "2013",
+      "date2": "2018"
+    },
+    {
+      "title": "Universidad San Sebastián",
+      "degree": "Bachelor's Degree in Engineering Science",
+      "date1": "2013",
+      "date2": "2016"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Tecnologías de la información",
+      "count": "3"
+    },
+    {
+      "title": "Seguridad informática",
+      "count": "3"
+    },
+    {
+      "title": "Hacking ético",
+      "count": "3"
+    },
+    {
+      "title": "Informática forense",
+      "count": "1"
+    },
+    {
+      "title": "Gestión de proyectos",
+      "count": "1"
+    },
+    {
+      "title": "Desarrollo de software",
+      "count": "1"
+    },
+    {
+      "title": "Linux",
+      "count": "1"
+    },
+    {
+      "title": "Liderazgo de equipos",
+      "count": "2"
+    },
+    {
+      "title": "Gestión y motivación de equipos",
+      "count": "2"
+    },
+    {
+      "title": "Lenguajes de programación",
+      "count": "1"
+    },
+    {
+      "title": "Bussines Inteligence",
+      "count": "1"
+    },
+    {
+      "title": "Ingeniería de desarrollo del software",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {},
+    {
+      "count": "19",
+      "items": [
+        "Amazon Elastic Container Service (ECS) - Amazon Web Server",
+        "Amazon Simple Storage Service (S3) - Amazon Web Server",
+        "Criptografía - Stanford University",
+        "Data Science & Machine Learning - Udemy",
+        "Developing in Html with Javascript & CSS3 - Microsoft",
+        "Docker with Linux - Udemy",
+        "Gestión y Respuesta a Incidentes - ESET",
+        "Google Analytics - Udemy",
+        "Introducción a la ISO/IEC 27001 - Escuela Europea",
+        "Introduction to Amazon Route - Amazon Web Server"
+      ]
+    },
+    {
+      "count": "2",
+      "items": [
+        "TrainIA",
+        "HalfSecurity"
+      ]
+    },
+    {
+      "count": "1",
+      "items": [
+        "Egresado con Distinción"
+      ]
+    },
+    {
+      "count": "0"
+    },
+    {
+      "count": "0"
+    },
+    {
+      "count": "0"
+    },
+    {
+      "count": "0"
+    },
+    {
+      "count": "0"
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-p%C3%A1ez-acevedo-831b6235/",
+      "text": "Tarotista Terapéutico, Orfebre, Decoradora de Interiores, Artesana. En Amodoro Arte Terapias"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pablovidelay/",
+      "text": "OSCP / OPST - Consultor Senior de Seguridad Informática. en Dreamlab Technologies"
+    },
+    {
+      "user": "https://www.linkedin.com/in/claudiagallardo1/",
+      "text": "Gestor Educación en Ciberseguridad"
+    },
+    {
+      "user": "https://www.linkedin.com/in/luis-felipe-zelada-6b9b0714/",
+      "text": "Gerente General y Socio Director en AEROTOP S.A."
+    },
+    {
+      "user": "https://www.linkedin.com/in/claudia-guti%C3%A9rrez-s%C3%A1nchez-4b5a82b4/",
+      "text": "Analista de Desarrollo Organizacional"
+    },
+    {
+      "user": "https://www.linkedin.com/in/francisca-pacheco-rom%C3%A1n-b596b775/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/woliverc/",
+      "text": "Cybersecurity Engineer (EH)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/katherine-andrade-soto-aba32435/",
+      "text": "Ingeniera en Informática, licenciada en Informática, Scrum Master Certified, Certified CTFL, Certified TestManager CTAL."
+    },
+    {
+      "user": "https://www.linkedin.com/in/jonathan-medel-92205b126/",
+      "text": "Jefe de proyectos Uniti security and network By Standard Networks"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sergio-perez-sepulveda-a8632742/",
+      "text": "Supervisor Gestión en Seguridad TI (Experiencia área Banca)"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Abraham Almarza Kackschis",
+    "headline": "Research Cybersecurity and Developer",
+    "location": "Chile",
+    "connections": "Más de 500 contactos",
+    "summary": "Ingeniero Civil informático, con amplia experiencia en diversos rubros del mercado como ingeniero de software, consultor hacker ético y gestión de proyectos.\n\nSoy un profesional dedicado al aprendizaje continuo, estando a la vanguardia en diferentes sectores del mercado, y de esta manera siendo alguien con una gran variedad de conocimientos técnicos y habilidades blandas.\n\nCuento con gran capacidad de liderar equipos multidisciplinarios, en sus diferentes contextos, utilizando los recursos de la manera más óptima y eficiente, de está manera logrando los objetivos correctamente.\n\nHe participado en diversos proyectos de innovación, enfocados principalmente en áreas de la salud y la ciberseguridad.\n\nParticipo como Co-Founder en Khapto, y Fundador de HalfSecurity, siendo un profesional introducido en la innovación y estas materias, además de las estratégicas del mercado."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "profileAlternative": {
+    "name": "viviana garcia",
+    "headline": "Estudiante en Duoc UC",
+    "location": "Estación Central, Región Metropolitana de Santiago, Chile",
+    "connections": "Información de contacto"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Duoc UC",
+      "degree": "Marketing",
+      "date1": "2016",
+      "date2": "2018"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/valent%C3%ADn-dayller-alfaro-0392ab142/",
+      "text": "Estudiante en Duoc UC"
+    },
+    {
+      "user": "https://www.linkedin.com/in/valeska-baeza-salinas-7288a0160/",
+      "text": "Estudiante en Duoc UC #marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/camila-gonz%C3%A1lez-neira-9a7a02154/",
+      "text": "Analista de selección de personal en Valle Nevado"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yohan-c%C3%A1ceres-herrera-952500166/",
+      "text": "Egresado de la carrera ingeniería en Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/barbara-paillalef-mendez-11b953160/",
+      "text": "Vendedora en Bata Chile"
+    },
+    {
+      "user": "https://www.linkedin.com/in/mar%C3%ADa-de-los-%C3%A1ngeles-montero-39a337124/",
+      "text": "Media Planner en Havas Media Group"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fernando-andres-san-martin-turner-0b9282161/",
+      "text": "Ingeniero comercial"
+    },
+    {
+      "user": "https://www.linkedin.com/in/valentina-gonz%C3%A1lez-76b323104/",
+      "text": "Estudiantes de Ingeniería de marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/anna-passeretto-57036a132/",
+      "text": "Ingeniería en Marketing"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pablo-valverde-forttes-1848b212a/",
+      "text": "Director del departamento comercial en UPAVAL"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "viviana garcia",
+    "headline": "Estudiante en Duoc UC",
+    "location": "Estación Central, Región Metropolitana de Santiago, Chile",
+    "connections": "Información de contacto"
+  }
+}

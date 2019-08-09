@@ -1,0 +1,32 @@
+{
+  "profileAlternative": {
+    "name": "Jorge Gomez",
+    "headline": "Bombero jefe en C.B. Antuco",
+    "location": "Estación Central, Región Metropolitana de Santiago, Chile",
+    "connections": "5 contactos"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Bombero jefe",
+      "companyName": "C.B. Antuco"
+    }
+  ],
+  "educations": [],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Jorge Gomez",
+    "headline": "Bombero jefe en C.B. Antuco",
+    "location": "Estación Central, Región Metropolitana de Santiago, Chile",
+    "connections": "5 contactos"
+  }
+}

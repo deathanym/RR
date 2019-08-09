@@ -1,0 +1,33 @@
+{
+  "profileAlternative": {
+    "name": "Florencia Rossi Karelovic",
+    "headline": "Estudiante en Universidad Adolfo Ibáñez",
+    "location": "Provincia de Santiago, Chile",
+    "connections": "Información de contacto"
+  },
+  "aboutAlternative": {},
+  "positions": [],
+  "educations": [
+    {
+      "title": "Universidad Adolfo Ibáñez",
+      "date1": "2016",
+      "date2": "2020"
+    }
+  ],
+  "skills": [],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Florencia Rossi Karelovic",
+    "headline": "Estudiante en Universidad Adolfo Ibáñez",
+    "location": "Provincia de Santiago, Chile",
+    "connections": "Información de contacto"
+  }
+}
